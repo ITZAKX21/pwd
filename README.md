@@ -1,10 +1,6 @@
 <h1 align="center">
 ☆ᴍᴏʜᴀᴍᴍᴀᴅ ᴀʟᴀᴍɪɴ☆
 </h1>
-
-<p align="center"><a href="https://www.facebook.com/AK27X69"><img title="Eida Ami🥺" src="x.jpg"></a></p>
-<p align="center"><a href="https://m.me/AK27X"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a><a href="https://fb.com/AK27X69"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a><a href="https://github.com/AK27X"><img title="Republic of Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
-</p>
 <h2 align="center">
 ☆ PASSWORD LIST MAKER ☆
 </h2>
