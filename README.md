@@ -24,26 +24,32 @@
 *`
 pkg update && upgrade -y
 `
+
 *`
 pkg install git -y
 `
+
 *`
 git clone https://github.com/AK27X/pwd
-`
+
 *`
 pkg install python -y
 `
 
 <h5 align="center">☆[RUN]☆<h5>
+
 *`
 cd pwd
 `
+
 *`
 python password
 `
+
 <p align="center">
   <img alt="Layout" src="pwd.jpg">
 </p>
+
 <h4 align="center">☆[UNINSTALL]☆<h4>
 
 *`
