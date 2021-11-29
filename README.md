@@ -31,6 +31,7 @@ pkg install git -y
 
 *`
 git clone https://github.com/AK27X/pwd
+`
 
 *`
 pkg install python -y
