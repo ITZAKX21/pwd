@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-☆All in '1'☆
+☆ PASSWORD LIST MAKER ☆
 </h2>
 
 <p align="center">
