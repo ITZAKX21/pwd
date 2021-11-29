@@ -2,7 +2,7 @@
 ☆ᴍᴏʜᴀᴍᴍᴀᴅ ᴀʟᴀᴍɪɴ☆
 </h1>
 
-! [TEAM](https://raw.githubusercontent.com/AK27X/AK27X/main/team.jpg)
+<p align="center"><img scr="https://raw.githubusercontent.com/AK27X/AK27X/main/team.jpg">
 
 <h2 align="center">
 ☆ PASSWORD LIST MAKER ☆
