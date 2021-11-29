@@ -1,7 +1,9 @@
 <h1 align="center">
 ☆ᴍᴏʜᴀᴍᴍᴀᴅ ᴀʟᴀᴍɪɴ☆
 </h1>
-![COVER](https://github.com/AK27X/AK27X/blob/main/team.jpg)
+
+! [COVER](https://github.com/AK27X/AK27X/blob/main/team.jpg)
+
 <h2 align="center">
 ☆ PASSWORD LIST MAKER ☆
 </h2>
