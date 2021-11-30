@@ -2,9 +2,7 @@
 ☆ᴍᴏʜᴀᴍᴍᴀᴅ ᴀʟᴀᴍɪɴ☆
 </h1>
 
-<p align="center">
-<img title="EIDA AMI😎" scr="https://raw.githubusercontent.com/AK27X/AK27X/main/team.jpg">
-</p>
+<p align="center"><a href="https://www.facebook.com/AK27X69"><img title="Eida Ami🥺" src="x.jpg"></a></p>
 
 <h2 align="center">
 ☆ PASSWORD LIST MAKER ☆
