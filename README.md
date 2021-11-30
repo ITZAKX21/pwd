@@ -46,6 +46,10 @@ cd pwd
 `
 
 *`
+chmod +x password
+'
+
+*`
 python password
 `
 
